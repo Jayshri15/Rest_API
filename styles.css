@@ -1,0 +1,21 @@
+button{
+    background-color: rgb(132, 224, 252);
+    height: 50px;
+    width: 170px;
+    border-radius: 60px;
+    margin: 10px;
+}
+img {
+    width: 80%;
+    height: 80%;
+    object-fit: cover;
+    text-align: center;
+    background-color: #79a3fc;
+}
+h1{
+    text-align:justify;
+}
+
+h2{
+    text-align:center ;
+}
